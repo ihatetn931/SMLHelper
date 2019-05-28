@@ -1,0 +1,1 @@
+### This project has been merged with https://github.com/QModManager/QModManager
